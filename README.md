@@ -12,7 +12,7 @@
 
 # Hola (>‿◠)✌, soy juan
 
-### Y soy desarrollador, con especialidad en el FrontEnd y apasionado por la tecnologia 🧑‍💻 ...
+### Soy desarrollador, con especialidad en el FrontEnd y apasionado por la tecnologia 🧑‍💻 ...
 ### te invito a revisar mis proyectos 🤗
 
 <div style="border: 10px solid rgba(255,101,80,0.7);padding:10px;margin:0px">
